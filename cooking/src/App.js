@@ -4,11 +4,13 @@ import Home from './pages/Home'
 import Create from './pages/Create';
 import Search from './pages/Search';
 import Recipe from './pages/Recipe';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
+        <Navbar/>
         <Routes>
           <Route/>
           <Route path="/" element={<Home />} />
