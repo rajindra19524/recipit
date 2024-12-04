@@ -47,6 +47,16 @@
       ],
       "method": "blah blah blah",
       "cookingTime": "45minutes"
+    },
+    {
+      "id": "91de",
+      "title": "chickpea curry",
+      "ingredients": [
+        "chicken",
+        "garlic"
+      ],
+      "method": "blah blah blah",
+      "cookingTime": "25minutes"
     }
   ]
 }
